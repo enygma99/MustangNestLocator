@@ -1,18 +1,18 @@
 
 
-options(database_name = "ITOM6265_F23_Group19")
-options(database_userid = "itom6265")
-options(database_password = "ITOM_6265_passw0rd")
+options(database_name = "<database_name>")
+options(database_userid = "<database_userid>")
+options(database_password = "<database_password>")
 
 #############################################################
 #You don't need to modify any code after this line
 #############################################################
 # Add the database credentials here.
 #Use classroomdb.smu.edu when deploying to shinyapps.io
-options(database_server = "classroomdb.smu.edu")
+options(database_server = "<database_server>")
 #Use sacad2pdb1.systems.smu.edu 
 #options(database_server = "sacad2pdb1.systems.smu.edu")
-options(database_port = 55433)
+options(database_port = <port>)
 
 # database connector (edit at your own risk!)
 

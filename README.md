@@ -25,3 +25,5 @@ Mustang Nest Locator is a Shiny web application that provides a platform for fin
 - Configurations in the creds.R file. Enter the credentials of the DB accordingly.
 - This app uses Microsoft ODBC Driver for database connectivity
 
+## URL to the web app
+- https://devmukherjee.shinyapps.io/Group19/
